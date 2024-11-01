@@ -21,7 +21,7 @@ This project outlines best practices for deploying and managing PostgreSQL datab
 - [Maintenance](#maintenance)
 - [Performance Tuning](#performance-tuning)
 - [Best Practices](#best-practices)
-- [License](#license)
+- [Conclusion](#conclusion)
 
 ## Deployment
 
